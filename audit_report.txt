@@ -1,0 +1,9 @@
+Router Configuration Audit Report
+---------------------------------------------
+Found enable password (should be encrypted or replaced with 'enable secret').
+User password found: username admin password admin
+User password found: password admin
+Telnet is enabled (use SSH instead).
+Interface is active (no shutdown).
+Interface is administratively down.
+User password found: service password-encryption
