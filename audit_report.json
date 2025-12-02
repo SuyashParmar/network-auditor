@@ -1,0 +1,27 @@
+[
+    {
+        "severity": "INFO",
+        "message": "Security Score: 90/100",
+        "recommendation": "Fix HIGH and MEDIUM issues to improve score."
+    },
+    {
+        "severity": "HIGH",
+        "message": "Plaintext user password found.",
+        "recommendation": "Use encrypted-password instead of plaintext-password."
+    },
+    {
+        "severity": "INFO",
+        "message": "No Telnet service found (Good).",
+        "recommendation": "No action needed."
+    },
+    {
+        "severity": "INFO",
+        "message": "SSH is enabled.",
+        "recommendation": "Good security practice."
+    },
+    {
+        "severity": "INFO",
+        "message": "No disabled interfaces found.",
+        "recommendation": "All interfaces are active."
+    }
+]
